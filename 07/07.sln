@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{27FB7B0A-7618-4EC4-B1E7-C3B6E17714B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedMethod", "SealedMethod\SealedMethod.csproj", "{FE5EB9C8-C7F9-4695-B415-9B59BFAD90E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedClass", "NestedClass\NestedClass.csproj", "{C5590F19-6EA2-4165-9A09-E472D38E1EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FB7B0A-7618-4EC4-B1E7-C3B6E17714B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FB7B0A-7618-4EC4-B1E7-C3B6E17714B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FB7B0A-7618-4EC4-B1E7-C3B6E17714B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FB7B0A-7618-4EC4-B1E7-C3B6E17714B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5EB9C8-C7F9-4695-B415-9B59BFAD90E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5EB9C8-C7F9-4695-B415-9B59BFAD90E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5EB9C8-C7F9-4695-B415-9B59BFAD90E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5EB9C8-C7F9-4695-B415-9B59BFAD90E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5590F19-6EA2-4165-9A09-E472D38E1EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5590F19-6EA2-4165-9A09-E472D38E1EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5590F19-6EA2-4165-9A09-E472D38E1EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5590F19-6EA2-4165-9A09-E472D38E1EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
